@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestDown", "ManifestDown\ManifestDown.csproj", "{AB6F463D-C5D2-436B-A6C5-8913F335947F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicManifestParser", "EpicManifestParser\src\EpicManifestParser\EpicManifestParser.csproj", "{140F52E6-4F73-426C-B38C-AB0E565312F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6F463D-C5D2-436B-A6C5-8913F335947F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6F463D-C5D2-436B-A6C5-8913F335947F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6F463D-C5D2-436B-A6C5-8913F335947F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6F463D-C5D2-436B-A6C5-8913F335947F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140F52E6-4F73-426C-B38C-AB0E565312F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140F52E6-4F73-426C-B38C-AB0E565312F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140F52E6-4F73-426C-B38C-AB0E565312F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140F52E6-4F73-426C-B38C-AB0E565312F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
